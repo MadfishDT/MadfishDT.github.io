@@ -3,3 +3,4 @@ layout: default
 comments: true
 disques_url: https://madfishdt.disqus.com
 disques_id: madfishdt
+disqus_shortname: madfishdt
