@@ -17,4 +17,4 @@ You can use MadfishDT Contents and Source Codes
 
 2. Chromium Projects
     - [electron customizing](https://github.com/MadfishDT/electron)
-    - [electron build tips](/electron_tips.md) 
+    - [electron build tips](/blogs/electron_tips.md) 
