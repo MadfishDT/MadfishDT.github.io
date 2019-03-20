@@ -28,7 +28,10 @@ You can use MadfishDT Contents and Source Codes
 
 2. Chromium Projects
     - [electron customizing](https://github.com/MadfishDT/electron)
-    - [electron build tips](/blogs/electron_tips.md) 
+        - [electron build tips](/blogs/electron_tips.md)
+        - [electron API enhancement 1: moveTop API](/blogs/electron_moveTop.md)
+        - [electron API enhancement 2: setAspectRatio](/blogs/electron_setAspectRatio.md)
+    
 
 
 ## Next Projects
@@ -38,7 +41,7 @@ You can use MadfishDT Contents and Source Codes
         - worker module and module that use worker are bundled sinlge file, but worker working
     - support TypeScript, Javscript, nodejs(Electron) web worker
     - worker bundling support, you do not host 'worker.js'
-    - Comming soon 12/31/2018
+    - Comming soon 03/29/2019
 
 2. **zlibt support cli mode**
 3. **zipt**
