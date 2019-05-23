@@ -33,7 +33,6 @@ You can use MadfishDT Contents and Source Codes
         - [electron API enhancement 2: setAspectRatio](/blogs/electron_setAspectRatio.md)
     
 
-
 ## Next Projects
 
 1. **Inline Worker Generator.**
@@ -41,8 +40,26 @@ You can use MadfishDT Contents and Source Codes
         - worker module and module that use worker are bundled sinlge file, but worker working
     - support TypeScript, Javscript, nodejs(Electron) web worker
     - worker bundling support, you do not host 'worker.js'
-    - Comming soon 03/29/2019
+    - Comming soon 06/29/2019
 
 2. **zlibt support cli mode**
+- zlibjs full convert to typescript version with webpack ~ing
+- [zlibt](https://github.com/MadfishDT/zlibt/tree/develop)
+    1. support typescript
+    2. support webpack bundling code
+    3. support all of zlibjs
+        - PKZIP
+        - Zlib(rawinflate, rawdeflate)
+        - GZip
+    4. Comming soon 30/5/2019
+    5. support full bundle zlib, support partial bundle for user, want to only one operation
+        - pkzip bundle
+        - zlib bundle
+        - gzip bundle
+    6. support UMD for pure web site
+    7. support nodejs
+    8, support typescript for angular, react ......
 3. **zipt**
+- I have updata plan using with zlibt. provide partial bundle PKZIP, and provide nodejs interface and node cli mode Comming soon 30/5/2019
 4. **embedding zlib, zip, unzip in electron**
+5. node DMG make on uniz/linux  plateform by using dmglib

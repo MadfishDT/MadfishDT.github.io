@@ -1,7 +1,7 @@
 ## Electron Implementation BrowerWindow setAspectRatio Function on Windows os
 
 Electron Browser Window setAspectratio is implemented on Windows OS
-- [I am trying to merge this feature to current electron master branch](https://github.com/electron/electron/pull/17245)
+- [I am trying to merge this feature to current electron master branch](https://github.com/electron/electron/pull/18306)
 
  1. Problem
     * setAspectratio works on only MacOS
