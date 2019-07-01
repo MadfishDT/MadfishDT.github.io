@@ -25,7 +25,7 @@
 ## Delete Data in Doc
 - [Add Data](https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-index_.html)
 - `POST twitter/_delete_by_query`
-- removce all data with 'match_all' query keyword
+- remove all data with 'match_all' query keyword
 ```js
     POST twitter/_doc/
     {
@@ -34,4 +34,24 @@
         }
     }
 ```
+
+- remove data with date range
+- lt: less than '<'
+- gt: great than '>'
+- lte: less than and equal'<='
+- gte: great than and equal'>='
+
+```js
+{
+  "query": {
+     "range" : {
+            "dateTime" : {
+                "gte": "2015-01-01",
+                "lt" :  "2019-05-01"
+            }
+        }
+  }
+}
+```
+
 
