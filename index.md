@@ -1,6 +1,14 @@
 ## Welcome to MadfishDT
 
+## Knowledge
+1. Typescript, Javascript, Web, PWAs
 
+2. Elastic Search 
+ - [Elastic Search Querys](/blogs/ES.md)
+    - add data
+    - remove data
+    - remove index
+    - no sql query
 ## Projects
 
 You can use MadfishDT Contents and Source Codes
@@ -31,7 +39,6 @@ You can use MadfishDT Contents and Source Codes
         - [electron build tips](/blogs/electron_tips.md)
         - [electron API enhancement 1: moveTop API](/blogs/electron_moveTop.md)
         - [electron API enhancement 2: setAspectRatio](/blogs/electron_setAspectRatio.md)
-    
 
 ## Next Projects
 
