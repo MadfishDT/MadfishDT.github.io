@@ -32,13 +32,41 @@ You can use MadfishDT Contents and Source Codes
         - convert code to text
         - code can asign string valriable in javascript, c++, c etcs....
         - [npm code-textizer](https://www.npmjs.com/package/code-textizer)
+    - [objectwatchers](https://github.com/MadfishDT/objectwatcher)
+        - javascript object and variable watch module
+        - this module is not base on Event from browser and module
+            - for example zone.js start search when Event occur in browser or module
+            - My module re-define setter and getter and make polling variable
+            - support typescript, javscript, nodejs, browser
+        - [npm objectwatchers](https://www.npmjs.com/package/objectwatchers)
 
+2. zlibjs full convert to typescript version with webpack
+- [zlibt](https://github.com/MadfishDT/zlibt)
+    - support typescript
+    - support webpack bundling code
+    - support all of zlibjs
+        - PKZIP
+        - Zlib(rawinflate, rawdeflate)
+        - GZip
+    - Comming soon 
+    - support full bundle zlib, support partial bundle for user, want to only one operation
+        - pkzip bundle
+        - zlib bundle
+        - gzip bundle
+    - support UMD for pure web site
+    - support nodejs
+    - support typescript for angular, react ......
+- [npm zlibt2](https://www.npmjs.com/package/zlibt2)
 
-2. Chromium Projects
+3. Chromium Projects
     - [electron customizing](https://github.com/MadfishDT/electron)
         - [electron build tips](/blogs/electron_tips.md)
         - [electron API enhancement 1: moveTop API](/blogs/electron_moveTop.md)
+            - currently this API was merged in electron master branch.
+            - BrwoserWindow [win.moveTop()](https://electronjs.org/docs/api/browser-window#winmovetop)
         - [electron API enhancement 2: setAspectRatio](/blogs/electron_setAspectRatio.md)
+            - currently this API is evaluating in electron pull request to merge electron master branch
+            - [win.setAaspectRatio](https://github.com/electron/electron/pull/18306)
 
 ## Next Projects
 
@@ -47,26 +75,8 @@ You can use MadfishDT Contents and Source Codes
         - worker module and module that use worker are bundled sinlge file, but worker working
     - support TypeScript, Javscript, nodejs(Electron) web worker
     - worker bundling support, you do not host 'worker.js'
-    - Comming soon 06/29/2019
 
-2. **zlibt support cli mode**
-- zlibjs full convert to typescript version with webpack ~ing
-- [zlibt](https://github.com/MadfishDT/zlibt/tree/develop)
-    1. support typescript
-    2. support webpack bundling code
-    3. support all of zlibjs
-        - PKZIP
-        - Zlib(rawinflate, rawdeflate)
-        - GZip
-    4. Comming soon 30/5/2019
-    5. support full bundle zlib, support partial bundle for user, want to only one operation
-        - pkzip bundle
-        - zlib bundle
-        - gzip bundle
-    6. support UMD for pure web site
-    7. support nodejs
-    8, support typescript for angular, react ......
-3. **zipt**
-- I have updata plan using with zlibt. provide partial bundle PKZIP, and provide nodejs interface and node cli mode Comming soon 30/5/2019
+2. **zipt**
+- I have updata plan using with zlibt. provide partial bundle PKZIP, and provide nodejs interface and node cli mode Comming soon 
 4. **embedding zlib, zip, unzip in electron**
 5. node DMG make on uniz/linux  plateform by using dmglib
