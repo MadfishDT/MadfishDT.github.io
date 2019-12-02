@@ -9,6 +9,8 @@
     - remove data
     - remove index
     - no sql query
+3. Python Tutorial
+ - [Python Basic](/blogs/python_basic.md)
 ## Projects
 
 You can use MadfishDT Contents and Source Codes
