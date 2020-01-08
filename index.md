@@ -12,6 +12,10 @@
 3. Python Tutorial
  - [Python Basic](/blogs/python_basic.md)
 ## Projects
+## Knowledge
+1. [Typescript Nodejs Devleopment](/blog/tsnode.md)
+2. [MongoDB install on ubuntu](/blog/MongoDB)
+    - mongoDB queries
 
 You can use MadfishDT Contents and Source Codes
 
