@@ -13,10 +13,10 @@
  - [Python Basic](/blogs/python_basic.md)
 
 ## Knowledge
-1. [Typescript Nodejs Devleopment](/blog/tsnode.md)
-2. [MongoDB install on ubuntu](/blog/MongoDB)
+1. [Typescript Nodejs Devleopment](/blogs/tsnode.md)
+2. [MongoDB install on ubuntu](/blogs/MongoDB)
     - mongoDB queries
-    
+
 ## Projects
 You can use MadfishDT Contents and Source Codes
 
