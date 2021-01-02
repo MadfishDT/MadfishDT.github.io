@@ -1,7 +1,7 @@
 ## libdmg build
 
 libdmg-hfsplus is library to make dmg files on linux system
-
+(this is tested in ubuntu)
 ### libdmg github
 - [download source](https://github.com/planetbeing/libdmg-hfsplus)
 ```shell
@@ -68,7 +68,11 @@ libdmg-hfsplus is library to make dmg files on linux system
 - and make package
     ```
     $make dmg
+    $cd dmg
+    $make
     ```
+- into dmg folder and command 'make', 
+- first 'make dmg' make dmg.a library, second go into dmg foler and 'make' create dmg binary.
 - if build is success, you can see dmg binary in ./dmg folder
 - unfortunatly sombody can see error like
     - 'error: field ‘hmacCTX’ has incomplete type' error

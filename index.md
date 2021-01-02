@@ -75,6 +75,7 @@ You can use MadfishDT Contents and Source Codes
 - node DMG make on uniz/linux  plateform by using dmglib
     - I have experience using dmglib to make dmg file on ubuntu or cent os
     - [how to build libdmg](/blogs/libdmg_build.md)
+    - I attached libdmg/dmg [binary](/blogs/bin/libdmg/dmg) 
 
 ### Knowledge
 1. Typescript, Javascript, Web, PWAs
