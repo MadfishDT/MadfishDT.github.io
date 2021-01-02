@@ -1,26 +1,12 @@
 ## Welcome to MadfishDT
 
-## Knowledge
-1. Typescript, Javascript, Web, PWAs
+MadfishDT techical blog
 
-2. Elastic Search 
- - [Elastic Search Querys](/blogs/ES.md)
-    - add data
-    - remove data
-    - remove index
-    - no sql query
-3. Python Tutorial
- - [Python Basic](/blogs/python_basic.md)
 
-## Knowledge
-1. [Typescript Nodejs Devleopment](/blogs/tsnode.md)
-2. [MongoDB install on ubuntu](/blogs/MongoDB)
-    - mongoDB queries
-
-## Projects
+### Projects
 You can use MadfishDT Contents and Source Codes
 
- 1. TypeScript Projects
+ 1. TypeScript & nodejs Projects
      
     - [zlibt for typescript](https://github.com/MadfishDT/zlibt) base on imaya zlib 
         - standard zlib support typescript, javascript
@@ -83,17 +69,26 @@ You can use MadfishDT Contents and Source Codes
         - Vue, Bootstrap, SurveyJs
     - [dash Server](https://github.com/MadfishDT/dash-server) <--Git link
         - Nodejs, Express, Mysql Server
-    - [Demo Site](http://35.193.127.219:8080)
+
     
-## Next Projects
+### Next Projects
+- node DMG make on uniz/linux  plateform by using dmglib
+    - I have experience using dmglib to make dmg file on ubuntu or cent os
+    - [how to build libdmg](/blogs/libdmg_build.md)
 
-1. **Inline Worker Generator.**
-    - support Webpack support web worker
-        - worker module and module that use worker are bundled sinlge file, but worker working
-    - support TypeScript, Javscript, nodejs(Electron) web worker
-    - worker bundling support, you do not host 'worker.js'
+### Knowledge
+1. Typescript, Javascript, Web, PWAs
 
-2. **zipt**
-- I have updata plan using with zlibt. provide partial bundle PKZIP, and provide nodejs interface and node cli mode Comming soon 
-4. **embedding zlib, zip, unzip in electron**
-5. node DMG make on uniz/linux  plateform by using dmglib
+2. Elastic Search 
+ - [Elastic Search Querys](/blogs/ES.md)
+    - add data
+    - remove data
+    - remove index
+    - no sql query
+3. Python Tutorial
+ - [Python Basic](/blogs/python_basic.md)
+
+### Knowledge
+1. [Typescript Nodejs Devleopment](/blogs/tsnode.md)
+2. [MongoDB install on ubuntu](/blogs/MongoDB)
+    - mongoDB queries
