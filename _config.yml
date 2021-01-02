@@ -3,4 +3,4 @@ logo: /assets/img/madfish.jpeg
 show_downloads: false
 description: MadfishDT world github blog page
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
