@@ -70,6 +70,10 @@ You can use MadfishDT Contents and Source Codes
     - [dash Server](https://github.com/MadfishDT/dash-server) <--Git link
         - Nodejs, Express, Mysql Server
 
+5. Crawling Youtube
+    - Youtube video cralwing
+    - provide youtube video comments crawling without headless browerser
+    - [npm comment crawling](https://www.npmjs.com/package/sandbox-youtube-comments) 
     
 ### Next Projects
 - node DMG make on uniz/linux  plateform by using dmglib
@@ -78,7 +82,7 @@ You can use MadfishDT Contents and Source Codes
     - I attached libdmg/dmg [binary](/blogs/bin/libdmg/dmg) is builed ubuntu 
 
 ### Knowledge
-1. Typescript, Javascript, Web, PWAs
+1. Typescript, Javascript, Web, PWAs, nodjs, python, electron
 
 2. Elastic Search 
  - [Elastic Search Querys](/blogs/ES.md)
